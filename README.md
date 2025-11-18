@@ -62,7 +62,7 @@ I'm passionate about creating innovative web solutions and exploring cutting-edg
 My Portfolio :
 <br/>
 <div align="left">
- <a href="https://samiftaita.github.io/Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio" /> </a>
+ <a href="https://sami-ftaita.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio" /> </a>
 </div>
 
 

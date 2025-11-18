@@ -37,6 +37,7 @@ I'm passionate about creating innovative web solutions and exploring cutting-edg
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
+<br/>
 
 <div align="center">
   
@@ -47,7 +48,6 @@ I'm passionate about creating innovative web solutions and exploring cutting-edg
 
 
  What I'm Working On :
-
 - 🔭 Building full-stack web applications with modern technologies
 - 🌱 Continuously learning new frameworks and best practices
 
@@ -58,9 +58,9 @@ I'm passionate about creating innovative web solutions and exploring cutting-edg
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
   </a>
 </div>
-<br/>
+<b/>
 My Portfolio :
-
+<br/>
 <div align="left">
  <a href="https://samiftaita.github.io/Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio" /> </a>
 </div>

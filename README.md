@@ -40,8 +40,6 @@ I'm passionate about creating innovative web solutions and exploring cutting-edg
 <br/>
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiftaita&show_icons=true&theme=tokyonight&hide_border=false)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samiftaita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false)
 
 </div>

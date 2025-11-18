@@ -39,10 +39,7 @@ I'm passionate about creating innovative web solutions and exploring cutting-edg
 </div>
 <br/>
 
-<div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samiftaita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false)
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiftaita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&exclude_repo=github-readme-stats,samiftaita" height="150" alt="languages graph" /> </div>
 
 
  What I'm Working On :

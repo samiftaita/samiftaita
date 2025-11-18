@@ -46,7 +46,7 @@
 
 ###
 
-![snake gif](https://github.com/samiftaita/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/samiftaita/samiftaita/blob/output/github-snake-dark.svg)
 ###
 
 <div align="center">

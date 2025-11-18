@@ -46,10 +46,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/samiftaita/samiftaita/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/samiftaita/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 ###
 
 <div align="center">
